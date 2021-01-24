@@ -18,7 +18,18 @@ A very basic C# proxy checker that will filter the working proxies from the dead
 * Checks both http/s , socks4 & socks5 proxy types
 * Customizable timeout (MS) (within project source)
 * Customizable thread count (within project source)
+* Save proxies to a text file and remove all of the dead proxies
+* See proxies in a listbox + server information
 ```
+
+# Future updates
+```
+1 - Tidy up the code a little (simplify the multi threading)
+2 - Add option to test proxy against a specific site
+3 - Add option to save proxies with ISP information or filter
+4 - Write working proxies to file instantly 
+```
+
 
 ```
 Admin@hvh.site
