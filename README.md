@@ -30,6 +30,9 @@ A very basic C# proxy checker that will filter the working proxies from the dead
 4 - Write working proxies to file instantly 
 ```
 
+# Dependencies
+[Leaf Xnet](https://github.com/csharp-leaf/Leaf.xNet) \
+[Newtonsoft](https://www.newtonsoft.com/)
 
 ```
 Admin@hvh.site
