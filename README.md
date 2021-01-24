@@ -5,7 +5,6 @@ A very basic C# proxy checker that will filter the working proxies from the dead
 
 
 
-
 # Setup (project source)
 ```
 * Download the project files and open in your IDE
@@ -28,7 +27,16 @@ A very basic C# proxy checker that will filter the working proxies from the dead
 2 - Add option to test proxy against a specific site
 3 - Add option to save proxies with ISP information or filter
 4 - Write working proxies to file instantly 
+5 - Add options.json for settings
 ```
+
+# Options
+```
+* Threads (1,200)
+* Timeout (1,000 MS = 1 seconds)
+```
+
+![Alt text](https://i.imgur.com/9UUTaC2.png "Settings")
 
 # Dependencies
 [Leaf Xnet](https://github.com/csharp-leaf/Leaf.xNet) \
