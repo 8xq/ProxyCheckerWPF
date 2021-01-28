@@ -32,7 +32,7 @@ A very basic C# proxy checker that will filter the working proxies from the dead
 
 # Options
 ```
-* Threads (1-2000)
+* Threads (1-2000) (reocmmended is 250 threads)
 * Timeout (1,000 MS = 1 seconds)
 ```
 
