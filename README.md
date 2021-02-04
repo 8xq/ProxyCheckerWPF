@@ -1,5 +1,5 @@
 # ProxyCheckerWPF
-A very basic C# proxy checker that will filter the working proxies from the dead proxies , if the proxy is valid it will also attempt to return the "ISP" and "region" of the proxy. As you will see below the design is very basic and its just the default XAML controls available for use within WPF , the reason for this was to learn more about Xaml and learn some of the differences.
+A very basic C# proxy checker that will filter the working proxies from the dead proxies , if the proxy is valid it will also attempt to return the "ISP" and "region" of the proxy. As you will see below the design is very basic and its just the default XAML controls available for use within WPF , the reason for this was to learn more about Xaml and learn some of the differences.  
 
 ![Alt text](https://i.imgur.com/92lhbP0.png "GUI")
 
