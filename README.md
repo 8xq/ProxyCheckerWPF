@@ -19,6 +19,7 @@ A very basic C# proxy checker that will filter the working proxies from the dead
 * Customizable thread count (within project source)
 * Save proxies to a text file and remove all of the dead proxies
 * See proxies in a listbox + server information
+* Ignores protocol errors to ensure proxies are tested !
 ```
 
 # Future updates
